@@ -133,3 +133,6 @@ dmypy.json
 **.key
 **.csr
 **.crt
+
+# idea
+.idea
